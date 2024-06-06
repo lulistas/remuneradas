@@ -1,6 +1,44 @@
-{" Naranja X ":" Personal Pay "," 40,00\u00a0%TNA ":" 35,93\u00a0%TNA "," 48,21\u00a0%TEA ":" 43,20\u00a0%TEA ","Promocion hasta $400k":"Delta Pesos (X)"}
-{" Naranja X ":" n1u "," 40,00\u00a0%TNA ":" 34,49\u00a0%TNA "," 48,21\u00a0%TEA ":" 41,17\u00a0%TEA ","Promocion hasta $400k":"Delta Pesos (A)"}
-{" Naranja X ":" Mercado Pago "," 40,00\u00a0%TNA ":" 32,40\u00a0%TNA "," 48,21\u00a0%TEA ":" 38,24\u00a0%TEA ","Promocion hasta $400k":"Mercado Fondo A"}
-{" Naranja X ":" Prex "," 40,00\u00a0%TNA ":" 31,22\u00a0%TNA "," 48,21\u00a0%TEA ":" 36,62\u00a0%TEA ","Promocion hasta $400k":"Allaria Ahorro (A)"}
-{" Naranja X ":" Claro Pay "," 40,00\u00a0%TNA ":" 29,82\u00a0%TNA "," 48,21\u00a0%TEA ":" 34,73\u00a0%TEA ","Promocion hasta $400k":"SBS Ahorro (A)"}
-{" Naranja X ":" LetsBit "," 40,00\u00a0%TNA ":" 26,81\u00a0%TNA "," 48,21\u00a0%TEA ":" 30,74\u00a0%TEA ","Promocion hasta $400k":"ST Zero (D)"}
+[
+    {
+        "Entidad":" Naranja X ",
+        "%TNA":" 40,00\u00a0%TNA ",
+        "%TEA":" 48,21\u00a0%TEA ",
+        "Descripci\u00f3n":"Promocion hasta $400k"
+    },
+    {
+        "Entidad":" Personal Pay ",
+        "%TNA":" 35,93\u00a0%TNA ",
+        "%TEA":" 43,20\u00a0%TEA ",
+        "Descripci\u00f3n":"Delta Pesos (X)"
+    },
+    {
+        "Entidad":" n1u ",
+        "%TNA":" 34,49\u00a0%TNA ",
+        "%TEA":" 41,17\u00a0%TEA ",
+        "Descripci\u00f3n":"Delta Pesos (A)"
+    },
+    {
+        "Entidad":" Mercado Pago ",
+        "%TNA":" 32,40\u00a0%TNA ",
+        "%TEA":" 38,24\u00a0%TEA ",
+        "Descripci\u00f3n":"Mercado Fondo A"
+    },
+    {
+        "Entidad":" Prex ",
+        "%TNA":" 31,22\u00a0%TNA ",
+        "%TEA":" 36,62\u00a0%TEA ",
+        "Descripci\u00f3n":"Allaria Ahorro (A)"
+    },
+    {
+        "Entidad":" Claro Pay ",
+        "%TNA":" 29,82\u00a0%TNA ",
+        "%TEA":" 34,73\u00a0%TEA ",
+        "Descripci\u00f3n":"SBS Ahorro (A)"
+    },
+    {
+        "Entidad":" LetsBit ",
+        "%TNA":" 26,81\u00a0%TNA ",
+        "%TEA":" 30,74\u00a0%TEA ",
+        "Descripci\u00f3n":"ST Zero (D)"
+    }
+]
