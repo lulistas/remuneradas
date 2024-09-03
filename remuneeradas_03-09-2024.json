@@ -1,0 +1,44 @@
+[
+    {
+        "Entidad":" Naranja X ",
+        "%TNA":" 42,00%TNA ",
+        "%TEA":" 51,11%TEA ",
+        "Descripci\u00f3n":"Promocion hasta $600k"
+    },
+    {
+        "Entidad":" Mercado Pago ",
+        "%TNA":" 37,24%TNA ",
+        "%TEA":" 45,10%TEA ",
+        "Descripci\u00f3n":"Mercado Fondo A"
+    },
+    {
+        "Entidad":" Prex ",
+        "%TNA":" 36,06%TNA ",
+        "%TEA":" 43,39%TEA ",
+        "Descripci\u00f3n":"Allaria Ahorro (A)"
+    },
+    {
+        "Entidad":" Personal Pay ",
+        "%TNA":" 35,26%TNA ",
+        "%TEA":" 42,26%TEA ",
+        "Descripci\u00f3n":"Delta Pesos (X)"
+    },
+    {
+        "Entidad":" LetsBit ",
+        "%TNA":" 34,12%TNA ",
+        "%TEA":" 40,64%TEA ",
+        "Descripci\u00f3n":"ST Zero (D)"
+    },
+    {
+        "Entidad":" n1u ",
+        "%TNA":" 33,83%TNA ",
+        "%TEA":" 40,24%TEA ",
+        "Descripci\u00f3n":"Delta Pesos (A)"
+    },
+    {
+        "Entidad":" Lemon Cash ",
+        "%TNA":" 33,74%TNA ",
+        "%TEA":" 40,11%TEA ",
+        "Descripci\u00f3n":"Fima Premium (P)"
+    }
+]
